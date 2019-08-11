@@ -1,0 +1,1 @@
+Count of Malaria-infected blood cells: 3
