@@ -1065,9 +1065,9 @@
     "restore": {
       "projectUniqueName": "ChestXrayProject",
       "projectName": "ChestXrayProject",
-      "projectPath": "C:\\Users\\Mango\\Documents\\Malaria-UIPath\\Demo3\\.local",
+      "projectPath": "C:\\Users\\Mango\\Documents\\Automating-Malaria-Diagnosis-Process-Using-UIPath-Keras\\Demo3\\.local",
       "packagesPath": "C:\\Users\\Mango\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mango\\Documents\\Malaria-UIPath\\Demo3\\.local"
+      "outputPath": "C:\\Users\\Mango\\Documents\\Automating-Malaria-Diagnosis-Process-Using-UIPath-Keras\\Demo3\\.local"
     },
     "frameworks": {
       "net461": {
